@@ -9,9 +9,9 @@
 **Styleguide and symbols included** !
 
 ## Fonts used 
-Playfair (https://fonts.adobe.com/fonts/playfair)
+[Playfair](https://fonts.adobe.com/fonts/playfair)
 
-Poppins (https://fonts.adobe.com/fonts/poppins)
+[Poppins](https://fonts.adobe.com/fonts/poppins)
 
 ## Link
-Download the Sketch files (fonts not included) (https://www.lafabriqueavisuels.fr/freebies/real-estate-luxury-modern-website-design.sketch)
+[Download the Sketch file](https://www.lafabriqueavisuels.fr/freebies/real-estate-luxury-modern-website-design.sketch) (fonts not included) 
