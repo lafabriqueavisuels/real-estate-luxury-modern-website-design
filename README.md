@@ -6,12 +6,15 @@
 ![Plan de travail 2](https://user-images.githubusercontent.com/45576833/109860585-a2800100-7c5e-11eb-9a52-d90948944b31.png)
 
 **Free** and **opensource** Sketch real estate luxury and modern responsive design
+
 **Styleguide and symbols included** !
+
 
 ## Fonts used 
 [Playfair](https://fonts.adobe.com/fonts/playfair)
 
 [Poppins](https://fonts.adobe.com/fonts/poppins)
+
 
 ## Link
 [Download the Sketch file](https://www.lafabriqueavisuels.fr/freebies/real-estate-luxury-modern-website-design.sketch) (fonts not included) 
