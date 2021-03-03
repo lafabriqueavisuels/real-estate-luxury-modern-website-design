@@ -21,5 +21,4 @@
 
 
 ## Credits 
-la fabrique à visuels
-[https://www.lafabriqueavisuels.fr/] (https://www.lafabriqueavisuels.fr/)
+[https://www.lafabriqueavisuels.fr/](https://www.lafabriqueavisuels.fr/)
